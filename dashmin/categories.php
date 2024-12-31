@@ -7,8 +7,8 @@ include("components/header.php")
 
                 <div class="row  bg-light rounded  mx-0">
                 <div class="row justify-content-end">
-    <div class="col-lg-2">
-    <button type="button" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="btn btn-outline-primary m-2">Add category</button>
+    <div class="col-lg-2 my-2">
+    <button type="button" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="btn btn-outline-primary ">Add category</button>
     </div>
 </div>
                     <div class="col-md-6 text-center">
